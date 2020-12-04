@@ -129,7 +129,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.nodiex</groupId>
-			<artifactId>nodiex-deps-common</artifactId>
+			<artifactId>nx-deps-common</artifactId>
 			<version>1.0.0</version>
 			<type>pom</type>
 		</dependency>
